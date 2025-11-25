@@ -6,7 +6,7 @@
 
 ### ✨ Full-Stack Developer | 🎨 Creative Coder | 🚀 Tech Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Transformando+ideias+em+c%C3%B3digo+%F0%9F%92%BB;Criando+experi%C3%AAncias+web+incr%C3%ADveis+%E2%9C%A8;Sempre+a+aprender+e+evoluir+%F0%9F%9A%80;Caf%C3%A9+%2B+C%C3%B3digo+%3D+Magia+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=A+transformar+ideias+em+c%C3%B3digo+%F0%9F%92%BB;A+Criar+experi%C3%AAncias+web+%E2%9C%A8;Sempre+a+aprender+e+evoluir+%F0%9F%9A%80;" alt="Typing SVG" />
 
 </div>
 
@@ -35,7 +35,7 @@
 
 🔧 **Back-end**: Node.js e C# para desenvolvimento de aplicações robustas
 
-💖 **Fun fact**: Adoro transformar café em código ☕✨
+
 
 </div>
 
@@ -58,63 +58,23 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=caroljk777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" alt="Carolina's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=caroljk777&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=FF69B4&currStreakLabel=F75C7E" alt="Carolina's Streak Stats" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caroljk777&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
-</div>
-
-<div align="center">
-  
-### 🐍 Contribution Snake
-  
-![Snake animation](https://raw.githubusercontent.com/caroljk777/caroljk777/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 📫 Vamos conectar?
+## 📫 Contacte!?
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolina.canario.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/caroljk777)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caroljk777)
+
 
 </div>
 
 ---
 
-## 💖 Apoia o meu trabalho
-
-<div align="center">
-
-Se gostas do meu trabalho, considera apoiar-me! ☕✨
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/caroljk777)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💭 Frase do dia
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House)
-
-</div>
 
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=caroljk777&color=F75C7E&style=for-the-badge&label=VISITANTES)
 
-**Feito com 💖 e muito ☕ por Carolina**
+
 
 </div>
