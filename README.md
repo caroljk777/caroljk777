@@ -25,15 +25,12 @@
 
 🌱 A aprender: **Next.js avançado & Docker** para melhorar minhas skills de desenvolvimento
 
-🧠 Áreas de expertise: **Inteligência Artificial** • desenvolvimento de chatbots • automações com Python • extração de dados via OCR • machine learning e NLP
-
 🌐 **Desenvolvimento Web**: HTML, CSS, JavaScript e React.js para criar interfaces modernas
 
 🗄️ **Base de dados**: MySQL, SQL Server, PostgreSQL e SQLite
 
-🔧 **Back-end e APIs**: Express.js, Node.js, PHP, C# e integração com APIs RESTful
+🔧 **Back-end**: Node.js e C# para desenvolvimento de aplicações robustas
 
-💖 **Fun fact**: Adoro transformar café em código ☕✨
 
 </div>
 
@@ -47,7 +44,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,bootstrap,tailwind" />
 
 ### Backend & Languages
-<img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,python,c,php" />
+<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet,python,c" />
 
 ### Database & Tools
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,docker,git,github,vscode,figma" />
@@ -101,18 +98,4 @@ Se gostas do meu trabalho, considera apoiar-me! ☕✨
 
 ---
 
-<div align="center">
-  
-### 💭 Frase do dia
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House)
-
-</div>
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=caroljk777&color=F75C7E&style=for-the-badge&label=VISITANTES)
-
-**Feito com 💖 e muito ☕ por Carolina**
-
-</div>
