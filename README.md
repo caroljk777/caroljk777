@@ -1,21 +1,17 @@
 <h1 align="center">Olá 👋, eu sou a Carolina</h1>
 <h3 align="center">Full-Stack Developer • Criativa • Tech Lover</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=70&lines=Escrevo+código+com+paixão+✨;Crio+soluções+digitais+🌸;Sempre+a+aprender+coisas+novas+🚀" alt="Typing SVG" />
-</p>
 
 ### 👩‍💻 Sobre Mim
 
-- 🔭 A trabalhar em: **[Nome do Teu Projeto Atual]**
-- 🌱 A aprender: **[Linguagem 1], [Linguagem 2], [Tecnologia]**
+- 🔭 A trabalhar em: **UniPocket**
+- 🌱 A aprender: **Next.js, [Linguagem 2], [Tecnologia]**
 - 💖 Interesses: **[Design, Web Development, UI/UX, Jogos, Leitura]**
-- ⚡ Curiosidade: **[Um facto engraçado sobre ti]**
 
 ### 📫 Onde me encontrar
-- 📧 Email: `[teu.email@exemplo.com]`
+- 📧 Email: `carolina.canario.dev@gmail.com`
 - 🔗 LinkedIn: [@[teu-usuario]](https://www.linkedin.com/in/[teu-usuario])
-- 📸 Instagram: [@[teu.insta]](https://instagram.com/[teu.insta])
+- 📸 Portfólio: Em breve!
 
 ---
 
